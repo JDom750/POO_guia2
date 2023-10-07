@@ -1,0 +1,4 @@
+package Punto3;
+
+public enum Dias {LUNES, MARTES, MIERCOLES, JUEVES,
+    VIERNES, SABADOS, DOMINGOS}
